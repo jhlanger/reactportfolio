@@ -6,7 +6,7 @@ function Navigation(props) {
     <div className="navigation">
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">
-          <Link className="navbar-brand" to="/about">
+          <Link className="navbar-brand" to="/">
             Jon Langerman
           </Link>
 
@@ -14,10 +14,10 @@ function Navigation(props) {
             <ul className="navbar-nav ml-auto">
             <li
                 className={`nav-item  ${
-                  props.location.pathname === "/about" ? "active" : ""
+                  props.location.pathname === "/reactportfolio" ? "active" : ""
                 }`}
               >
-                <Link className="nav-link" to="/about">
+                <Link className="nav-link" to="/reactportfolio">
                   About
                   <span className="sr-only">(current)</span>
                 </Link>
