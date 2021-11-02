@@ -40,20 +40,6 @@ function Projects() {
               </div>
             </div>
 
-            <div className="flip-card  mb-5">
-              <div className="flip-card-inner">
-                <div className="flip-card-front">
-                  <img src={carMartImg} alt="carmart" style={{ width: "300px", height: "200px" }}></img>
-                </div>
-                <div className="flip-card-back bg-dark">
-                  <h1>CarMart</h1>
-                  <p>HTML, CSS, MySQL, Bootstrap, JavaScript, Express, Node, Heroku, Bcrypt, Dotenv</p>
-                  <a target="_blank" rel="noreferrer" href = "https://gp2carmart.herokuapp.com/">View Deployed Website</a><br></br>
-                  <a target="_blank" rel="noreferrer" href = "https://github.com/jhlanger/Group-Project-2">View on Github</a>
-                </div>
-              </div>
-            </div>
-
             <div className="flip-card mr-5 mb-5">
               <div className="flip-card-inner">
                 <div className="flip-card-front">
@@ -82,7 +68,21 @@ function Projects() {
               </div>
             </div>
 
-            <div className="flip-card mb-5">
+            <div className="flip-card mr-5 mb-5">
+              <div className="flip-card-inner">
+                <div className="flip-card-front">
+                  <img src={carMartImg} alt="carmart" style={{ width: "300px", height: "200px" }}></img>
+                </div>
+                <div className="flip-card-back bg-dark">
+                  <h1>CarMart</h1>
+                  <p>HTML, CSS, MySQL, Bootstrap, JavaScript, Express, Node, Heroku, Bcrypt, Dotenv</p>
+                  <a target="_blank" rel="noreferrer" href = "https://gp2carmart.herokuapp.com/">View Deployed Website</a><br></br>
+                  <a target="_blank" rel="noreferrer" href = "https://github.com/jhlanger/Group-Project-2">View on Github</a>
+                </div>
+              </div>
+            </div>
+
+            <div className="flip-card mr-5 mb-5">
               <div className="flip-card-inner">
                 <div className="flip-card-front">
                   <img src={carMartImg} alt="carmart" style={{ width: "300px", height: "200px" }}></img>

@@ -16,10 +16,9 @@ function About() {
           <div className="col-lg-5">
             <h1 className="font-weight-light text-light">About</h1>
             <p className = "text-warning">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              Hello, My name is Jon Langerman, and I am a full stack developer! I am based out of Phoenix and currently work at Arizona State University. <br></br><br></br>
+
+              I have a diverse set of skills ranging from HTML, CSS, Javascript and going all the way to MySQL, Node, Express and React.
             </p>
           </div>
         </div>
