@@ -5,6 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+}
+
+.h-100vh {
+  height: 95vh;
+}
+
+.h-100vh-calc {
+  min-height: calc(100vh - 40px);
+
 }
 
 code {

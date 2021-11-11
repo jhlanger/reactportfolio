@@ -1,6 +1,5 @@
 import React from "react";
 import Resumepdf from "../assets/files/resume.pdf"
-import carMartImg from "../assets/images/carmartimage.PNG"
 import htmllogo from "../assets/images/htmllogo.png"
 import csslogo from "../assets/images/csslogo.png"
 import jslogo from "../assets/images/jslogo.png"
