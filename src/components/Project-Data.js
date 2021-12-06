@@ -2,7 +2,8 @@ import carMartImg from "../assets/images/carmartimage.PNG";
 import devWikiImg from "../assets/images/devWikiImg.png";
 import runBuddyImg from "../assets/images/runbuddyimage.PNG"
 import nbaAverageStatsImg from "../assets/images/NBAimg.png";
-import budgetTrackerImg from "../assets//images/budgetTrackerImg.PNG"
+import budgetTrackerImg from "../assets//images/budgetTrackerImg.PNG";
+import vachiImg from "../assets/images/vachiImg.PNG";
 
 
 export default [
@@ -23,11 +24,11 @@ export default [
     },
 
     {
-        header: "Car Mart3",
-        deployed: "https://gp2carmart.herokuapp.com/",
-        github: "https://github.com/jhlanger/Group-Project-2",
-        src: carMartImg,
-        skills: "HTML, CSS, MySQL, Bootstrap, JavaScript, Express, Node, Heroku, Bcrypt, Dotenv"
+        header: "VACHI",
+        deployed: "http://www.vachi.net/",
+        github: "https://github.com/jhlanger/vachi",
+        src: vachiImg,
+        skills: "Website in progress. Deployed link is to old currently deployed link. I am remaking this website. "
     },
 
     {

@@ -15,7 +15,7 @@ import mongodblogo from "../assets/images/mongodblogo.png"
 
 function Resume() {
   return (
-    <div className="resume pb-215">
+    <div className="resume pb-215 bg-black">
       <div className="container">
         <div className="row align-items-center my-5">
 

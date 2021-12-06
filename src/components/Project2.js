@@ -6,7 +6,7 @@ import carMartImg from "../assets/images/carmartimage.PNG";
 function Project2() {
   return (
    
-    <div className="row align-items-center my-5 ">
+    <div className="row align-items-center my-5 .h-100vh-calc">
 
     
       <div className="container">
